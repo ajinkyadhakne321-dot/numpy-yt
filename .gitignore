@@ -1,0 +1,12 @@
+# Ignore Python virtual environment and common build artifacts
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks are tracked by default
+# Add other patterns below as needed
+
